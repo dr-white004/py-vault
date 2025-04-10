@@ -13,6 +13,14 @@ This is a lightweight **offline desktop app** with two roles — **Admin** and *
 
 ---
 
+## 📄 Example Use Case
+
+A small rural retail store without stable internet can install the **admin app** on the owner's laptop to add inventory. The **packaged user app** can be shared via USB or memory card with local agents or customers. They make selections and generate an invoice **offline**, which is later sent to the admin once internet is available.
+
+This setup provides basic digital operations without requiring full-time connectivity.
+---
+
+
 ## 🛠️ How It Works
 
 ### 1. **Admin App (`admin_app.py`)**
